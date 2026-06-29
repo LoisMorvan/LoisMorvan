@@ -70,6 +70,7 @@ Mobile                 React Native, Expo
       <p>AI-assisted CRM for freelance prospecting, follow-ups, and opportunity tracking.</p>
       <p><strong>Stack:</strong> Next.js, TypeScript, Prisma, PostgreSQL/Supabase, better-auth, Google APIs</p>
       <p><strong>Highlights:</strong> lead pipeline, tasks, activity history, AI drafts, human validation.</p>
+      <p><a href="https://github.com/LoisMorvan/missionflow-case-study">Case study</a></p>
     </td>
   </tr>
   <tr>
@@ -78,12 +79,14 @@ Mobile                 React Native, Expo
       <p>Business tool replacing spreadsheet workflows for a freelance nursery photographer.</p>
       <p><strong>Stack:</strong> Next.js, TypeScript, Prisma, SQLite, PDF export, CSV/ODS/PDF import</p>
       <p><strong>Highlights:</strong> child records, sibling detection, invoice matching, revenue dashboard.</p>
+      <p><a href="https://github.com/LoisMorvan/creche-studio-case-study">Case study</a></p>
     </td>
     <td width="50%">
       <h3>FX Report</h3>
       <p>Local market intelligence tool for FX reports and structured analysis.</p>
       <p><strong>Stack:</strong> Next.js, TypeScript, Prisma, SQLite, AJV, RSS/PDF parsing, Codex CLI</p>
       <p><strong>Highlights:</strong> multi-source collection, JSON validation, daily/weekly reports.</p>
+      <p><a href="https://github.com/LoisMorvan/fx-report-case-study">Case study</a></p>
     </td>
   </tr>
 </table>
