@@ -63,7 +63,7 @@ Mobile                 React Native, Expo
       <p>Mobile app that generates walking routes from a target number of steps.</p>
       <p><strong>Stack:</strong> React Native, Expo, TypeScript, Zustand, MapLibre, routing worker</p>
       <p><strong>Highlights:</strong> GPS, route generation, GPX export, history, preferences, light/dark mode.</p>
-      <p><a href="https://play.google.com/store/apps/details?id=com.loismorvan.steproute">Play Store</a></p>
+      <p><a href="https://github.com/LoisMorvan/StepRoute">Source code</a> · <a href="https://play.google.com/store/apps/details?id=com.loismorvan.steproute">Play Store</a></p>
     </td>
     <td width="50%">
       <h3>MissionFlow</h3>
