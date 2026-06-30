@@ -122,7 +122,7 @@ I worked on internal applications used by business teams across healthcare facil
 
 ## GitHub Activity
 
-- Public case studies: [MissionFlow](https://github.com/LoisMorvan/missionflow-case-study), [Creche Studio](https://github.com/LoisMorvan/creche-studio-case-study), [FX Report](https://github.com/LoisMorvan/fx-report-case-study), [Nutria](https://github.com/LoisMorvan/nutria-case-study), [StepRoute](https://github.com/LoisMorvan/steproute-case-study).
+- Public case studies: [MissionFlow](https://github.com/LoisMorvan/missionflow-case-study), [Creche Studio](https://github.com/LoisMorvan/creche-studio-case-study), [FX Report](https://github.com/LoisMorvan/fx-report-case-study), [Nutria](https://github.com/LoisMorvan/nutria-case-study).
 - Most of my recent work is split between private product repositories and public documentation/case-study repositories.
 - Main public-facing stack: TypeScript, Next.js, React, Node.js, Prisma, SQL, React Native, Expo.
 
