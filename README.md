@@ -1,15 +1,15 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,45:2563eb,100:14b8a6&text=Lo%C3%AFs%20Morvan&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%2F%20Next.js%20%2F%20Node.js&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090b,55:111114,100:a3e635&text=Lo%C3%AFs%20Morvan&fontColor=f4f4f5&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%2F%20Next.js%20%2F%20Node.js&descAlignY=58&descSize=18&descColor=f4f4f5)
 
 ### I build clean web products, internal tools, dashboards, and MVPs.
 
 Based in Nantes, France. Available for freelance missions, permanent roles, or fixed-term contracts.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-loismorvan.com-14b8a6?style=for-the-badge&logo=vercel&logoColor=white)](https://loismorvan.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lois%20Morvan-2563eb?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morvan-lo%C3%AFs/)
-[![Malt](https://img.shields.io/badge/Malt-Freelance-fc5656?style=for-the-badge)](https://www.malt.fr/profile/loismorvan)
-[![Comet](https://img.shields.io/badge/Comet-Freelance-111827?style=for-the-badge)](https://app.comet.co/freelancer/profile/3YaONOrexq)
+[![Portfolio](https://img.shields.io/badge/Portfolio-loismorvan.com-a3e635?style=for-the-badge&logo=vercel&logoColor=09090b&labelColor=111114)](https://loismorvan.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lois%20Morvan-a3e635?style=for-the-badge&logo=linkedin&logoColor=09090b&labelColor=111114)](https://www.linkedin.com/in/morvan-lo%C3%AFs/)
+[![Malt](https://img.shields.io/badge/Malt-Freelance-a3e635?style=for-the-badge&labelColor=111114)](https://www.malt.fr/profile/loismorvan)
+[![Comet](https://img.shields.io/badge/Comet-Freelance-a3e635?style=for-the-badge&labelColor=111114)](https://app.comet.co/freelancer/profile/3YaONOrexq)
 
 </div>
 
@@ -38,17 +38,17 @@ Mobile                 React Native, Expo
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-2563eb?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-16a34a?style=flat-square&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-ef4444?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-4f46e5?style=flat-square&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1d4ed8?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0f766e?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-0369a1?style=flat-square&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0284c7?style=flat-square&logo=docker&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![React](https://img.shields.io/badge/React-111114?style=flat-square&logo=react&logoColor=a3e635)
+![Next.js](https://img.shields.io/badge/Next.js-111114?style=flat-square&logo=nextdotjs&logoColor=a3e635)
+![TypeScript](https://img.shields.io/badge/TypeScript-111114?style=flat-square&logo=typescript&logoColor=a3e635)
+![Node.js](https://img.shields.io/badge/Node.js-111114?style=flat-square&logo=nodedotjs&logoColor=a3e635)
+![Laravel](https://img.shields.io/badge/Laravel-111114?style=flat-square&logo=laravel&logoColor=a3e635)
+![PHP](https://img.shields.io/badge/PHP-111114?style=flat-square&logo=php&logoColor=a3e635)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111114?style=flat-square&logo=postgresql&logoColor=a3e635)
+![MySQL](https://img.shields.io/badge/MySQL-111114?style=flat-square&logo=mysql&logoColor=a3e635)
+![SQLite](https://img.shields.io/badge/SQLite-111114?style=flat-square&logo=sqlite&logoColor=a3e635)
+![Docker](https://img.shields.io/badge/Docker-111114?style=flat-square&logo=docker&logoColor=a3e635)
+![React Native](https://img.shields.io/badge/React_Native-111114?style=flat-square&logo=react&logoColor=a3e635)
 
 </div>
 
