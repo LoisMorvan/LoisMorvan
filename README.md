@@ -1,146 +1,109 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090b,35:09090b,100:a3e635&text=Lo%C3%AFs%20Morvan&fontColor=f4f4f5&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%2F%20Next.js%20%2F%20Node.js&descAlignY=58&descSize=18&descColor=f4f4f5)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090b,35:09090b,100:a3e635&text=Lo%C3%AFs%20Morvan&fontColor=f4f4f5&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20PHP%20%2F%20Laravel%20%2F%20React%20%2F%20TypeScript&descAlignY=58&descSize=17&descColor=f4f4f5)
 
-### I build clean web products, internal tools, dashboards, and MVPs.
+### I build and modernize useful, reliable, and maintainable business applications.
 
-Based in Nantes, France. Available for freelance missions, permanent roles, or fixed-term contracts.
+Based in Nantes, France.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-loismorvan.com-a3e635?style=for-the-badge&logo=vercel&logoColor=09090b&labelColor=111114)](https://loismorvan.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lois%20Morvan-a3e635?style=for-the-badge&logo=linkedin&logoColor=09090b&labelColor=111114)](https://www.linkedin.com/in/morvan-lo%C3%AFs/)
-[![Malt](https://img.shields.io/badge/Malt-Freelance-a3e635?style=for-the-badge&labelColor=111114)](https://www.malt.fr/profile/loismorvan)
-[![Comet](https://img.shields.io/badge/Comet-Freelance-a3e635?style=for-the-badge&labelColor=111114)](https://app.comet.co/freelancer/profile/3YaONOrexq)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lo%C3%AFs%20Morvan-a3e635?style=for-the-badge&logo=linkedin&logoColor=09090b&labelColor=111114)](https://www.linkedin.com/in/morvan-lo%C3%AFs/)
+[![Malt](https://img.shields.io/badge/Malt-Profile-a3e635?style=for-the-badge&labelColor=111114)](https://www.malt.fr/profile/loismorvan)
 
 </div>
-
----
 
 ## About
 
-I am a full-stack developer with **3 years of professional experience** building internal applications with real business constraints.
+I am a full-stack developer with **3 years of professional experience** building and modernizing internal applications around real business needs.
 
-I like products that are useful, readable, and maintainable: simple architecture, clear interfaces, clean backend logic, and pragmatic technical choices.
-
-My main playground is **React / Next.js / Node.js / TypeScript**, with solid experience in **PHP, Laravel, SQL, APIs, authentication, and internal tooling**.
+My core stack is **PHP and Laravel** on the backend, with **React and TypeScript** on the frontend. I work across the full delivery cycle: understanding the need, designing a pragmatic solution, implementing it, and supporting it after launch.
 
 ```txt
-Product mindset        Useful features, clean workflows, fast iteration
-Frontend               React, Next.js, TypeScript, Tailwind CSS
-Backend                Node.js, PHP, Laravel, REST APIs, Prisma
-Data                   PostgreSQL, MySQL, SQLite
-Quality                Playwright, Vitest, Zod, AJV, maintainable architecture
-Mobile                 React Native, Expo
+Backend          PHP, Laravel, REST APIs, authentication, SQL
+Frontend         React, TypeScript, Next.js, Tailwind CSS
+Data             MySQL, PostgreSQL, SQLite, Prisma
+Delivery         Docker, Git, CI/CD, maintainable architecture
+Also built       React Native apps, AI-assisted workflows, data pipelines
 ```
 
----
-
-## Tech Stack
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-111114?style=flat-square&logo=react&logoColor=a3e635)
-![Next.js](https://img.shields.io/badge/Next.js-111114?style=flat-square&logo=nextdotjs&logoColor=a3e635)
-![TypeScript](https://img.shields.io/badge/TypeScript-111114?style=flat-square&logo=typescript&logoColor=a3e635)
-![Node.js](https://img.shields.io/badge/Node.js-111114?style=flat-square&logo=nodedotjs&logoColor=a3e635)
-![Laravel](https://img.shields.io/badge/Laravel-111114?style=flat-square&logo=laravel&logoColor=a3e635)
-![PHP](https://img.shields.io/badge/PHP-111114?style=flat-square&logo=php&logoColor=a3e635)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111114?style=flat-square&logo=postgresql&logoColor=a3e635)
-![MySQL](https://img.shields.io/badge/MySQL-111114?style=flat-square&logo=mysql&logoColor=a3e635)
-![SQLite](https://img.shields.io/badge/SQLite-111114?style=flat-square&logo=sqlite&logoColor=a3e635)
-![Docker](https://img.shields.io/badge/Docker-111114?style=flat-square&logo=docker&logoColor=a3e635)
-![React Native](https://img.shields.io/badge/React_Native-111114?style=flat-square&logo=react&logoColor=a3e635)
-
-</div>
-
----
-
-## Featured Projects
+## Featured Work
 
 <table>
   <tr>
     <td width="50%">
-      <h3>StepRoute</h3>
-      <p>Mobile app that generates walking routes from a target number of steps.</p>
-      <p><strong>Stack:</strong> React Native, Expo, TypeScript, Zustand, MapLibre, routing worker</p>
-      <p><strong>Highlights:</strong> GPS, route generation, GPX export, history, preferences, light/dark mode.</p>
-      <p><a href="https://github.com/LoisMorvan/StepRoute">Source code</a> · <a href="https://play.google.com/store/apps/details?id=com.loismorvan.steproute">Play Store</a></p>
+      <h3>Crèche Studio</h3>
+      <p>Local business tool used by an independent photographer to replace spreadsheet workflows and manage nursery activity.</p>
+      <p><strong>Stack:</strong> Next.js, React, TypeScript, Prisma, SQLite</p>
+      <p><strong>Highlights:</strong> imports, sibling detection, invoice matching, profitability dashboard, PDF exports, local Windows deployment.</p>
+      <p><a href="https://github.com/LoisMorvan/creche-studio-case-study">Case study</a> · <a href="https://crechestudio.loismorvan.com">Demo</a></p>
     </td>
     <td width="50%">
-      <h3>MissionFlow</h3>
-      <p>AI-assisted CRM for freelance prospecting, follow-ups, and opportunity tracking.</p>
-      <p><strong>Stack:</strong> Next.js, TypeScript, Prisma, PostgreSQL/Supabase, better-auth, Google APIs</p>
-      <p><strong>Highlights:</strong> lead pipeline, tasks, activity history, AI drafts, human validation.</p>
-      <p><a href="https://github.com/LoisMorvan/missionflow-case-study">Case study</a></p>
+      <h3>FX Research Suite</h3>
+      <p>Personal ecosystem combining market research, recurring automation, and trade lifecycle tracking.</p>
+      <p><strong>Stack:</strong> Next.js, React, TypeScript, Prisma, SQLite, PostgreSQL, AJV</p>
+      <p><strong>Highlights:</strong> RSS and PDF collection, structured daily and weekly reports, strict validation, private API integration.</p>
+      <p><a href="https://github.com/LoisMorvan/fx-report-case-study">Case study</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>Creche Studio</h3>
-      <p>Business tool replacing spreadsheet workflows for a freelance nursery photographer.</p>
-      <p><strong>Stack:</strong> Next.js, TypeScript, Prisma, SQLite, PDF export, CSV/ODS/PDF import</p>
-      <p><strong>Highlights:</strong> child records, sibling detection, invoice matching, revenue dashboard.</p>
-      <p><a href="https://github.com/LoisMorvan/creche-studio-case-study">Case study</a></p>
+      <h3>StepRoute</h3>
+      <p>Published mobile app that generates walking routes from a target number of steps.</p>
+      <p><strong>Stack:</strong> React Native, Expo, TypeScript, Zustand, MapLibre</p>
+      <p><strong>Highlights:</strong> route optimization, GPS, local history, GPX export, bilingual interface.</p>
+      <p><a href="https://github.com/LoisMorvan/StepRoute">Source code</a> · <a href="https://play.google.com/store/apps/details?id=com.loismorvan.steproute">Play Store</a></p>
     </td>
     <td width="50%">
-      <h3>FX Report</h3>
-      <p>Local market intelligence tool for FX reports and structured analysis.</p>
-      <p><strong>Stack:</strong> Next.js, TypeScript, Prisma, SQLite, AJV, RSS/PDF parsing, Codex CLI</p>
-      <p><strong>Highlights:</strong> multi-source collection, JSON validation, daily/weekly reports.</p>
-      <p><a href="https://github.com/LoisMorvan/fx-report-case-study">Case study</a></p>
+      <h3>Nutria</h3>
+      <p>Meal planning and food stock application with structured AI assistance and mobile-friendly PWA workflows.</p>
+      <p><strong>Stack:</strong> Next.js, React, TypeScript, Prisma, SQLite, Zod</p>
+      <p><strong>Highlights:</strong> pantry tracking, meal planning, nutrition goals, shopping lists, backup and restore.</p>
+      <p><a href="https://github.com/LoisMorvan/nutria-case-study">Case study</a></p>
     </td>
   </tr>
 </table>
 
----
+## Professional Highlights
 
-## Professional Experience
+### LNA Santé
 
-### LNA Sante
+- Rebuilt **CESAR**, an internal purchasing platform used by around 80 people per day across more than 100 healthcare facilities.
+- Managed business workflows involving catalogs, orders, SAP exchanges through CSV files, SAML authentication, and supplier integrations.
+- Rebuilt a meal booking application with **Laravel 12 and React**, including Azure AD SSO, Outlook integration, recurring bookings, and meal donations.
+- Created a reusable Laravel authentication package, UI component library, and project starter template.
 
-I worked on internal applications used by business teams across healthcare facilities.
+### IP Développement
 
-- Led a **Drupal 7 to Drupal 9 migration** for an internal purchasing platform.
-- Built reusable **Laravel authentication packages** with Azure AD SSO.
-- Created reusable UI foundations with **Tailwind CSS** and **Headless UI**.
-- Modernized a **Laravel 6 application to Laravel 12** with a React frontend.
-- Worked on business workflows involving SAP exports, cron jobs, notifications, permissions, and internal tooling.
+- Built a Dolibarr module for a telecom operator to import call records, apply pricing rules, and generate billing documents.
 
----
+### Artefakt AI
+
+- Built a Flask web interface and account flow for a dental X-ray analysis demonstrator.
 
 ## What I Like Building
 
 | Area | What I bring |
 |---|---|
-| MVPs | Fast delivery, scoped features, clean foundations |
-| Dashboards | Readable interfaces, filters, data views, exports |
-| Back-offices | CRUD workflows, roles, permissions, operational screens |
-| Internal tools | Real business logic, automation, maintainability |
-| AI-assisted products | Structured outputs, validation, human-in-the-loop workflows |
-| Mobile apps | React Native, GPS, local persistence, product UX |
+| Business applications | Clear workflows, reliable domain logic, maintainable code |
+| Application modernization | Incremental migration, compatibility, pragmatic technical choices |
+| Back offices and dashboards | CRUD workflows, filters, permissions, imports and exports |
+| Integrations | Authentication, APIs, CSV exchanges, Microsoft services |
+| Local-first tools | SQLite, controlled data exposure, simple deployment |
 
----
+## Public Repositories
 
-## GitHub Activity
+Most recent product code remains private when it contains sensitive business data, credentials, or personal workflows. Public case studies document the product, architecture, impact, and screenshots without exposing private data.
 
-- Public case studies: [MissionFlow](https://github.com/LoisMorvan/missionflow-case-study), [Creche Studio](https://github.com/LoisMorvan/creche-studio-case-study), [FX Report](https://github.com/LoisMorvan/fx-report-case-study), [Nutria](https://github.com/LoisMorvan/nutria-case-study).
-- Most of my recent work is split between private product repositories and public documentation/case-study repositories.
-- Main public-facing stack: TypeScript, Next.js, React, Node.js, Prisma, SQL, React Native, Expo.
-
----
-
-## Current Focus
-
-- Shipping practical full-stack products with Next.js, TypeScript, and SQL.
-- Building useful AI-assisted workflows with validation and clear user control.
-- Improving internal tools, dashboards, and business applications.
-- Keeping architecture simple enough to maintain and strong enough to scale.
-
----
+- [Crèche Studio case study](https://github.com/LoisMorvan/creche-studio-case-study)
+- [FX Report case study](https://github.com/LoisMorvan/fx-report-case-study)
+- [Nutria case study](https://github.com/LoisMorvan/nutria-case-study)
+- [StepRoute source code](https://github.com/LoisMorvan/StepRoute)
+- [MissionFlow case study](https://github.com/LoisMorvan/missionflow-case-study)
 
 <div align="center">
 
-### Let's build something useful.
+### Let us build something useful.
 
-[Portfolio](https://loismorvan.com) · [LinkedIn](https://www.linkedin.com/in/morvan-lo%C3%AFs/) · [Malt](https://www.malt.fr/profile/loismorvan) · [Comet](https://app.comet.co/freelancer/profile/3YaONOrexq)
+[Portfolio](https://loismorvan.com) · [LinkedIn](https://www.linkedin.com/in/morvan-lo%C3%AFs/) · [Malt](https://www.malt.fr/profile/loismorvan)
 
 </div>
