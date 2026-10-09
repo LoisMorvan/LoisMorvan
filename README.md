@@ -98,7 +98,6 @@ Most recent product code remains private when it contains sensitive business dat
 - [FX Report case study](https://github.com/LoisMorvan/fx-report-case-study)
 - [Nutria case study](https://github.com/LoisMorvan/nutria-case-study)
 - [StepRoute source code](https://github.com/LoisMorvan/StepRoute)
-- [MissionFlow case study](https://github.com/LoisMorvan/missionflow-case-study)
 
 <div align="center">
 
